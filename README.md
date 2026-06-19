@@ -60,7 +60,7 @@ snyk config get api
 Claude Code を起動した状態で以下を実行：
 
 ```
-/plugin marketplace add git@github.com:bellx2/snyk-claude-plugin.git
+/plugin marketplace add bellx2/snyk-claude-plugin
 ```
 
 ### 5. プラグインをインストール

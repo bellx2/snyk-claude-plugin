@@ -1,0 +1,16 @@
+{
+  "name": "snyk-security",
+  "owner": {
+    "name": "Ryu Tanabe",
+    "email": "bellx2@gmail.com"
+  },
+  "description": "Snyk CLI を用いた脆弱性スキャン (snyk:scan) と継続監視 (snyk:monitor) を提供する Claude Code プラグイン",
+  "plugins": [
+    {
+      "name": "snyk",
+      "source": "./plugins/snyk",
+      "version": "0.2.2",
+      "description": "Snyk CLI を用いた脆弱性スキャン (snyk:scan) と継続監視 (snyk:monitor) を提供するプラグイン"
+    }
+  ]
+}

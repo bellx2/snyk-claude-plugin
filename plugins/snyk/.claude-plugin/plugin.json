@@ -1,6 +1,6 @@
 {
   "name": "snyk",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Snyk CLI を使った脆弱性スキャン・モニタリングを行うClaude Code プラグイン",
   "author": {
     "name": "Ryu Tanabe",

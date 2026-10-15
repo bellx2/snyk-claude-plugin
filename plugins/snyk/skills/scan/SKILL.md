@@ -1,7 +1,7 @@
 ---
 name: scan
 description: snyk-cliで脆弱性スキャンを実行し、英語の結果を日本語に翻訳した上で各脆弱性をClaudeが調査・解説したMarkdown/HTMLレポートを作成する。ユーザーが「snyk」「脆弱性スキャン」「依存ライブラリの脆弱性チェック」「コンテナの脆弱性」「IaCの設定ミスチェック」などを依頼したときに使用する。
-tools: Bash, Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
+allowed-tools: Bash, Read, Write, Edit, Grep, Glob, WebSearch, WebFetch
 ---
 
 # snyk:scan

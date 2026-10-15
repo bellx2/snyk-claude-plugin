@@ -9,7 +9,7 @@
     {
       "name": "snyk",
       "source": "./plugins/snyk",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "description": "Snyk CLI を用いた脆弱性スキャン (snyk:scan) と継続監視 (snyk:monitor) を提供するプラグイン"
     }
   ]

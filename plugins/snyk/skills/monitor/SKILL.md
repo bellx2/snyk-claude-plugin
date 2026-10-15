@@ -1,7 +1,7 @@
 ---
 name: monitor
 description: snyk-cliの`snyk monitor`を実行し、プロジェクトの依存関係スナップショットをSnykダッシュボードへ登録する。継続的に新規脆弱性を監視したい場合に使用する。ユーザーが「snyk monitor」「継続監視」「Snykダッシュボードに登録」などを依頼したときに使う。
-tools: Bash, Read, Grep, Glob
+allowed-tools: Bash, Read, Grep, Glob
 ---
 
 # snyk:monitor
